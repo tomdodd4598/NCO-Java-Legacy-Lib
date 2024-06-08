@@ -1,0 +1,15 @@
+[{
+	"modid": "nclegacy",
+	"name": "NCO Legacy Lib",
+	"description": "A simple library mod containing code from previous versions of NCO.",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "https://www.curseforge.com/minecraft/mc-mods/nco-java-legacy-lib",
+	"updateUrl": "",
+	"authorList": ["igentuman"],
+	"credits": "Thanks to Paul and Brian!",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": ["nuclearcraft"],
+	"requiredMods": []
+}]
